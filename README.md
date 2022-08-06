@@ -1,6 +1,10 @@
 # snake-react
 The classic snake game built with react and react dom.
 
+#Demo
+[https://rishabhrpg.github.io/snake-react/]
+
+
 ![Game play](gameplay.gif)
 
 # Getting Started with Create React App
