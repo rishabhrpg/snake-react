@@ -1,13 +1,7 @@
-import { Fragment, useEffect, useState } from "react";
-import {
-  Direction,
-  Location,
-  SnakeType,
-} from "../../interfaces/snake-interfaces";
+import { Fragment } from "react";
+import { SnakeType } from "../../interfaces/snake-interfaces";
 
 export const Snake = (props: { snake: SnakeType }) => {
-  // console.log("Rendering Snake ");
-
   const renderSnake = props.snake.map((location, index) => {
     return (
       <div

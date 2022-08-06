@@ -17,10 +17,10 @@ export class Board extends React.Component<
   }
 > {
   private speed = 2;
-  private foodAudio = new Audio("/assets/sounds/food.mp3");
-  private gameOverAudio = new Audio("/assets/sounds/game-over.mp3");
-  private moveAudio = new Audio("/assets/sounds/move.mp3");
-  private musicAudio = new Audio("/assets/sounds/music.mp3");
+  private foodAudio = new Audio("/snake-react/assets/sounds/food.mp3");
+  private gameOverAudio = new Audio("/snake-react/assets/sounds/game-over.mp3");
+  private moveAudio = new Audio("/snake-react/assets/sounds/move.mp3");
+  private musicAudio = new Audio("/snake-react/assets/sounds/music.mp3");
 
   constructor(props: any) {
     super(props);

@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { Location } from "../../interfaces/snake-interfaces";
 
 export const Food = (props : { food: Location }) => {
