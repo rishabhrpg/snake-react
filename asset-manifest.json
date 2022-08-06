@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/snake-react/static/css/main.0628167b.css",
-    "main.js": "/snake-react/static/js/main.f874a377.js",
+    "main.js": "/snake-react/static/js/main.e856926e.js",
     "static/js/787.670a7067.chunk.js": "/snake-react/static/js/787.670a7067.chunk.js",
     "static/media/bg.jpg": "/snake-react/static/media/bg.ca71855e59385066f45d.jpg",
     "index.html": "/snake-react/index.html",
     "main.0628167b.css.map": "/snake-react/static/css/main.0628167b.css.map",
-    "main.f874a377.js.map": "/snake-react/static/js/main.f874a377.js.map",
+    "main.e856926e.js.map": "/snake-react/static/js/main.e856926e.js.map",
     "787.670a7067.chunk.js.map": "/snake-react/static/js/787.670a7067.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0628167b.css",
-    "static/js/main.f874a377.js"
+    "static/js/main.e856926e.js"
   ]
 }
