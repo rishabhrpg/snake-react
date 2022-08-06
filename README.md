@@ -1,7 +1,7 @@
 # snake-react
 The classic snake game built with react and react dom.
 
-![Game play]('gameplay.gif')
+![Game play](gameplay.gif)
 
 # Getting Started with Create React App
 
