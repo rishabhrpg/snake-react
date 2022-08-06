@@ -96,10 +96,7 @@ export class Board extends React.Component<
       console.log("EAT Food");
       const newFood = this.generateFood();
       console.log("New food spawned at : ", newFood);
-      newSnake.push({
-        x: newSnake[newSnake.length - 1].x + this.state.snakeDirection.x,
-        y: newSnake[newSnake.length - 1].y + this.state.snakeDirection.y,
-      });
+      newSnake.push(this.state.food);
       this.setState({
         ...this.state,
         snake: newSnake,
